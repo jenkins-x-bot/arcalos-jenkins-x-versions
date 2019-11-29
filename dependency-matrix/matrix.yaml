@@ -56,8 +56,8 @@ dependencies:
     version: 2.0.1039
     versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.0.1039
   url: https://github.com/jenkins-x/jx
-  version: 2.0.1039
-  versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.0.1039
+  version: 2.0.1040
+  versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.0.1040
 - host: github.com
   owner: kubernetes-incubator
   repo: external-dns
@@ -204,7 +204,7 @@ dependencies:
   repo: jenkins-x-builders-ml
   url: https://github.com/jenkins-x/jenkins-x-builders-ml.git
   version: 0.1.970
-  versionURL: ""
+  versionURL: https://github.com/jenkins-x/jenkins-x-builders-ml/releases/tag/v0.1.970
 - component: cert-manager
   host: github.com
   owner: helm
