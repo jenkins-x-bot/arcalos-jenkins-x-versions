@@ -13,8 +13,8 @@ dependencies:
     version: 0.1.758
     versionURL: https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v0.1.758
   url: https://github.com/jenkins-x/jenkins-x-builders.git
-  version: 2.0.1215-555
-  versionURL: https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v2.0.1215-555
+  version: 2.0.1223-561
+  versionURL: https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v2.0.1223-561
 - host: github.com
   owner: jenkins-x
   repo: jx
@@ -33,31 +33,31 @@ dependencies:
       owner: jenkins-x-charts
       repo: prow
       url: https://github.com/jenkins-x-charts/prow
-      version: 0.0.1673
-      versionURL: https://github.com/jenkins-x-charts/prow/releases/tag/v0.0.1673
-    version: 2.0.1212
-    versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.0.1212
+      version: 0.0.1681
+      versionURL: https://github.com/jenkins-x-charts/prow/releases/tag/v0.0.1681
+    version: 2.0.1223
+    versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.0.1223
   - path:
     - host: github.com
       owner: jenkins-x
       repo: jenkins-x-builders-ml
       url: https://github.com/jenkins-x/jenkins-x-builders-ml.git
-      version: 0.1.1123
-      versionURL: https://github.com/jenkins-x/jenkins-x-builders-ml/releases/tag/v0.1.1123
-    version: 2.0.1205
-    versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.0.1205
+      version: 0.1.1138
+      versionURL: https://github.com/jenkins-x/jenkins-x-builders-ml/releases/tag/v0.1.1138
+    version: 2.0.1223
+    versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.0.1223
   - path:
     - host: github.com
       owner: jenkins-x
       repo: jenkins-x-builders
       url: https://github.com/jenkins-x/jenkins-x-builders.git
-      version: 2.0.1212-550
-      versionURL: https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v2.0.1212-550
-    version: 2.0.1212
-    versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.0.1212
+      version: 2.0.1223-561
+      versionURL: https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v2.0.1223-561
+    version: 2.0.1223
+    versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.0.1223
   url: https://github.com/jenkins-x/jx
-  version: 2.0.1212
-  versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.0.1212
+  version: 2.0.1223
+  versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.0.1223
 - host: github.com
   owner: kubernetes-incubator
   repo: external-dns
@@ -80,8 +80,8 @@ dependencies:
   owner: jenkins-x-charts
   repo: environment-controller
   url: https://github.com/jenkins-x-charts/environment-controller
-  version: 0.0.712
-  versionURL: https://github.com/jenkins-x-charts/environment-controller/releases/tag/v0.0.712
+  version: 0.0.718
+  versionURL: https://github.com/jenkins-x-charts/environment-controller/releases/tag/v0.0.718
 - host: github.com
   owner: jenkins-x
   repo: exposecontroller-service
@@ -98,8 +98,8 @@ dependencies:
   owner: jenkins-x
   repo: jenkins-x-platform
   url: https://github.com/jenkins-x/jenkins-x-platform
-  version: 2.0.2021
-  versionURL: https://github.com/jenkins-x/jenkins-x-platform/releases/tag/v2.0.2021
+  version: 2.0.2035
+  versionURL: https://github.com/jenkins-x/jenkins-x-platform/releases/tag/v2.0.2035
 - host: github.com
   owner: jenkins-x-charts
   repo: jx-build-templates
@@ -116,14 +116,14 @@ dependencies:
   owner: jenkins-x
   repo: lighthouse
   url: https://github.com/jenkins-x/lighthouse
-  version: 0.0.456
+  version: 0.0.464
   versionURL: ""
 - host: github.com
   owner: jenkins-x-charts
   repo: prow
   url: https://github.com/jenkins-x-charts/prow
-  version: 0.0.1675
-  versionURL: https://github.com/jenkins-x-charts/prow/releases/tag/v0.0.1675
+  version: 0.0.1681
+  versionURL: https://github.com/jenkins-x-charts/prow/releases/tag/v0.0.1681
 - host: github.com
   owner: jenkins-x
   repo: sso-operator
@@ -164,13 +164,13 @@ dependencies:
   owner: grafana
   repo: grafana
   url: https://github.com/grafana/grafana
-  version: 5.0.3
-  versionURL: https://github.com/grafana/grafana/releases/tag/v5.0.3
+  version: 5.0.4
+  versionURL: https://github.com/grafana/grafana/releases/tag/v5.0.4
 - host: github.com
   owner: prometheus
   repo: alertmanager
   url: https://github.com/prometheus/alertmanager
-  version: 10.5.2
+  version: 11.0.0
   versionURL: ""
 - component: flagger
   host: github.com
@@ -203,8 +203,8 @@ dependencies:
   owner: jenkins-x
   repo: jenkins-x-builders-ml
   url: https://github.com/jenkins-x/jenkins-x-builders-ml.git
-  version: 0.1.1131
-  versionURL: https://github.com/jenkins-x/jenkins-x-builders-ml/releases/tag/v0.1.1131
+  version: 0.1.1138
+  versionURL: https://github.com/jenkins-x/jenkins-x-builders-ml/releases/tag/v0.1.1138
 - component: cert-manager
   host: github.com
   owner: helm
@@ -405,8 +405,8 @@ dependencies:
   owner: cloudbees
   repo: arcalos-boot-config
   url: https://github.com/cloudbees/arcalos-boot-config
-  version: 1.0.189
-  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.189
+  version: 1.0.192
+  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.192
 - host: github.com
   owner: cloudbees
   repo: jx-tenant-service
@@ -416,13 +416,13 @@ dependencies:
       owner: cloudbees
       repo: arcalos-boot-config
       url: https://github.com/cloudbees/arcalos-boot-config
-      version: 1.0.189
-      versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.189
-    version: 0.0.437
-    versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.437
+      version: 1.0.192
+      versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.192
+    version: 0.0.451
+    versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.451
   url: https://github.com/cloudbees/jx-tenant-service
-  version: 0.0.437
-  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.437
+  version: 0.0.453
+  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.453
 - component: cert-manager
   host: github.com
   owner: helm
