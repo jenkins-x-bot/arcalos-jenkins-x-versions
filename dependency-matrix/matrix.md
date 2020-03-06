@@ -57,8 +57,8 @@ Dependency | Sources | Version | Mismatched versions
 [jenkins-x-quickstarts/vertx-rest-prometheus](https://github.com/jenkins-x-quickstarts/vertx-rest-prometheus.git) |  | [1.0.0+fd180fd76]() | 
 [heptio/velero](https://github.com/heptio/velero):velero |  | [2.7.4]() | 
 [jenkins-x/jenkins-x-builders-base](https://github.com/jenkins-x/jenkins-x-builders-base) | [github.com/jenkins-x/jenkins-x-builders-ml](https://github.com/jenkins-x/jenkins-x-builders-ml.git);[github.com/jenkins-x/jenkins-x-builders](https://github.com/jenkins-x/jenkins-x-builders.git) | [0.0.79](https://github.com/jenkins-x/jenkins-x-builders-base/releases/tag/v0.0.79) | 
-[cloudbees/arcalos-boot-config](https://github.com/cloudbees/arcalos-boot-config) |  | [1.0.199](https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.199) | 
-[cloudbees/jx-tenant-service](https://github.com/cloudbees/jx-tenant-service) | [github.com/cloudbees/arcalos-boot-config](https://github.com/cloudbees/arcalos-boot-config) | [0.0.463](https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.463) | 
+[cloudbees/arcalos-boot-config](https://github.com/cloudbees/arcalos-boot-config) |  | [1.0.197](https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.197) | 
+[cloudbees/jx-tenant-service](https://github.com/cloudbees/jx-tenant-service) | [github.com/cloudbees/arcalos-boot-config](https://github.com/cloudbees/arcalos-boot-config) | [0.0.471](https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.471) | **0.0.463**: [github.com/cloudbees/arcalos-boot-config](https://github.com/cloudbees/arcalos-boot-config)
 [helm/cert-manager](https://github.com/helm/charts/tree/master/stable/cert-manager):cert-manager |  | [0.6.7]() | 
 [bitnami/external-dns](https://github.com/bitnami/charts/tree/master/bitnami/external-dns) |  | [2.19.1]() | 
 [helm/nginx-ingress](https://github.com/helm/charts/tree/master/stable/nginx-ingress):nginx-ingress |  | [1.33.3]() | 
