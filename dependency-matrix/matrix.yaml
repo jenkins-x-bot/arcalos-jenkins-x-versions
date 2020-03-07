@@ -455,3 +455,9 @@ dependencies:
   url: https://github.com/cloudbees/arcalos-config
   version: 0.0.3
   versionURL: https://github.com/cloudbees/arcalos-config/releases/tag/v0.0.3
+- host: github.com
+  owner: kubernetes-sigs
+  repo: external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  version: 2.19.2
+  versionURL: ""
