@@ -4,7 +4,7 @@ pipelineConfig:
     pullRequest:
       pipeline:
         agent:
-          image: gcr.io/jenkinsxio/jx-tenant-service:0.0.479
+          image: gcr.io/jenkinsxio/jx-tenant-service:0.0.488
         options:
           timeout:
             time: 90
@@ -49,7 +49,7 @@ pipelineConfig:
               secretKeyRef:
                 name: arcalos-secret
                 key: pipeline_github_token
-          - name: GIT_OWNER
+          - name: DEFAULT_ORGANISATION
             value: arcalos-environments
           - name: USER
             value: jxaas
@@ -84,7 +84,7 @@ pipelineConfig:
     release:
       pipeline:
         agent:
-          image: gcr.io/jenkinsxio/builder-jx:2.0.1234-572
+          image: gcr.io/jenkinsxio/builder-jx:2.0.1236-574
         environment:
         - name: XDG_CONFIG_HOME
           value: "/root"
