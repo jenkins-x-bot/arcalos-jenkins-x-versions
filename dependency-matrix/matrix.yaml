@@ -421,8 +421,8 @@ dependencies:
     version: 0.0.497
     versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.497
   url: https://github.com/cloudbees/jx-tenant-service
-  version: 0.0.502
-  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.502
+  version: 0.0.503
+  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.503
 - component: cert-manager
   host: github.com
   owner: helm
