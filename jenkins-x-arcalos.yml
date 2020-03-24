@@ -4,7 +4,7 @@ pipelineConfig:
     pullRequest:
       pipeline:
         agent:
-          image: gcr.io/jenkinsxio/jx-tenant-service:0.0.532
+          image: gcr.io/jenkinsxio/jx-tenant-service:0.0.539
         options:
           timeout:
             time: 90
@@ -84,7 +84,7 @@ pipelineConfig:
     release:
       pipeline:
         agent:
-          image: gcr.io/jenkinsxio/builder-jx:2.0.1249-589
+          image: gcr.io/jenkinsxio/builder-jx:2.0.1252-592
         environment:
         - name: XDG_CONFIG_HOME
           value: "/root"
