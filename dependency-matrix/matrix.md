@@ -21,7 +21,7 @@ Dependency | Sources | Version | Mismatched versions
 [bitnami/charts](https://github.com/bitnami/charts/tree/master/bitnami/external-dns) |  | [2.10.2]() | 
 [grafana/grafana](https://github.com/grafana/grafana) |  | [5.0.11]() | 
 [prometheus/alertmanager](https://github.com/prometheus/alertmanager) |  | [11.0.4]() | 
-[weaveworks/flagger](https://github.com/weaveworks/flagger):flagger |  | [0.26.0]() | 
+[weaveworks/flagger](https://github.com/weaveworks/flagger):flagger |  | [0.27.0]() | 
 [weaveworks/flagger](https://github.com/weaveworks/flagger):grafana |  | [1.4.0]() | 
 [jenkins-x-charts/jxboot-resources](https://github.com/jenkins-x-charts/jxboot-resources) |  | [0.0.35]() | 
 [jenkins-x/jenkins-x-builders-ml](https://github.com/jenkins-x/jenkins-x-builders-ml.git) |  | [0.1.1176](https://github.com/jenkins-x/jenkins-x-builders-ml/releases/tag/v0.1.1176) | 
@@ -59,6 +59,6 @@ Dependency | Sources | Version | Mismatched versions
 [helm/cert-manager](https://github.com/helm/charts/tree/master/stable/cert-manager):cert-manager |  | [0.6.7]() | 
 [bitnami/external-dns](https://github.com/bitnami/charts/tree/master/bitnami/external-dns) |  | [2.20.3]() | 
 [helm/nginx-ingress](https://github.com/helm/charts/tree/master/stable/nginx-ingress):nginx-ingress |  | [1.34.3]() | 
-[cloudbees/jx-repository-controller](https://github.com/cloudbees/jx-repository-controller) |  | [0.0.364](https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.364) | 
+[cloudbees/jx-repository-controller](https://github.com/cloudbees/jx-repository-controller) |  | [0.0.365](https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.365) | 
 [cloudbees/arcalos-config](https://github.com/cloudbees/arcalos-config) |  | [0.0.3](https://github.com/cloudbees/arcalos-config/releases/tag/v0.0.3) | 
 [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) |  | [2.20.10]() | 
