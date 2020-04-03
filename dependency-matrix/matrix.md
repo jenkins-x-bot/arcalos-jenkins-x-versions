@@ -21,7 +21,7 @@ Dependency | Sources | Version | Mismatched versions
 [bitnami/charts](https://github.com/bitnami/charts/tree/master/bitnami/external-dns) |  | [2.10.2]() | 
 [grafana/grafana](https://github.com/grafana/grafana) |  | [5.0.11]() | 
 [prometheus/alertmanager](https://github.com/prometheus/alertmanager) |  | [11.0.4]() | 
-[weaveworks/flagger](https://github.com/weaveworks/flagger):flagger |  | [0.26.0]() | 
+[weaveworks/flagger](https://github.com/weaveworks/flagger):flagger |  | [0.27.0]() | 
 [weaveworks/flagger](https://github.com/weaveworks/flagger):grafana |  | [1.4.0]() | 
 [jenkins-x-charts/jxboot-resources](https://github.com/jenkins-x-charts/jxboot-resources) |  | [0.0.35]() | 
 [jenkins-x/jenkins-x-builders-ml](https://github.com/jenkins-x/jenkins-x-builders-ml.git) |  | [0.1.1176](https://github.com/jenkins-x/jenkins-x-builders-ml/releases/tag/v0.1.1176) | 
