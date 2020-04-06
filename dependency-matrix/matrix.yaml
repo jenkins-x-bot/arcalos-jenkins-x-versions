@@ -393,8 +393,8 @@ dependencies:
     version: 0.0.572
     versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.572
   url: https://github.com/cloudbees/jx-tenant-service
-  version: 0.0.573
-  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.573
+  version: 0.0.572
+  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.572
 - component: cert-manager
   host: github.com
   owner: helm
@@ -406,7 +406,7 @@ dependencies:
   owner: bitnami
   repo: external-dns
   url: https://github.com/bitnami/charts/tree/master/bitnami/external-dns
-  version: 2.20.3
+  version: 2.20.4
   versionURL: ""
 - component: nginx-ingress
   host: github.com
@@ -419,8 +419,8 @@ dependencies:
   owner: cloudbees
   repo: jx-repository-controller
   url: https://github.com/cloudbees/jx-repository-controller
-  version: 0.0.369
-  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.369
+  version: 0.0.370
+  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.370
 - host: github.com
   owner: cloudbees
   repo: arcalos-config
