@@ -393,8 +393,8 @@ dependencies:
     version: 0.0.595
     versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.595
   url: https://github.com/cloudbees/jx-tenant-service
-  version: 0.0.595
-  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.595
+  version: 0.0.597
+  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.597
 - component: cert-manager
   host: github.com
   owner: helm
@@ -431,5 +431,5 @@ dependencies:
   owner: kubernetes-sigs
   repo: external-dns
   url: https://github.com/kubernetes-sigs/external-dns
-  version: 2.20.10
+  version: 2.20.12
   versionURL: ""
