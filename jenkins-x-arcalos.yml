@@ -84,7 +84,7 @@ pipelineConfig:
     release:
       pipeline:
         agent:
-          image: gcr.io/jenkinsxio/builder-jx:2.0.1280-618
+          image: gcr.io/jenkinsxio/builder-jx:2.0.1282-620
         environment:
         - name: XDG_CONFIG_HOME
           value: "/root"
