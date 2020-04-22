@@ -13,8 +13,8 @@ dependencies:
     version: 0.1.758
     versionURL: https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v0.1.758
   url: https://github.com/jenkins-x/jenkins-x-builders.git
-  version: 2.1.4-630
-  versionURL: https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v2.1.4-630
+  version: 2.1.4-631
+  versionURL: ""
 - host: github.com
   owner: jenkins-x
   repo: jx
@@ -101,7 +101,7 @@ dependencies:
   owner: jenkins-x
   repo: lighthouse
   url: https://github.com/jenkins-x/lighthouse
-  version: 0.0.539
+  version: 0.0.543
   versionURL: ""
 - host: github.com
   owner: jenkins-x
@@ -377,8 +377,8 @@ dependencies:
   owner: cloudbees
   repo: arcalos-boot-config
   url: https://github.com/cloudbees/arcalos-boot-config
-  version: 1.0.281
-  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.281
+  version: 1.0.282
+  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.282
 - host: github.com
   owner: cloudbees
   repo: jx-tenant-service
@@ -393,8 +393,8 @@ dependencies:
     version: 0.0.642
     versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.642
   url: https://github.com/cloudbees/jx-tenant-service
-  version: 0.0.642
-  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.642
+  version: 0.0.646
+  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.646
 - component: cert-manager
   host: github.com
   owner: helm
@@ -419,8 +419,8 @@ dependencies:
   owner: cloudbees
   repo: jx-repository-controller
   url: https://github.com/cloudbees/jx-repository-controller
-  version: 0.0.404
-  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.404
+  version: 0.0.410
+  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.410
 - host: github.com
   owner: cloudbees
   repo: arcalos-config
@@ -431,5 +431,5 @@ dependencies:
   owner: kubernetes-sigs
   repo: external-dns
   url: https://github.com/kubernetes-sigs/external-dns
-  version: 2.21.1
+  version: 2.21.2
   versionURL: ""

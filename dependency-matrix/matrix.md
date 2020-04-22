@@ -2,7 +2,7 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[jenkins-x/jenkins-x-builders](https://github.com/jenkins-x/jenkins-x-builders.git) | [github.com/jenkins-x-charts/environment-controller](https://github.com/jenkins-x-charts/environment-controller) | [2.1.4-630](https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v2.1.4-630) | **0.1.758**: [github.com/jenkins-x-charts/environment-controller](https://github.com/jenkins-x-charts/environment-controller)
+[jenkins-x/jenkins-x-builders](https://github.com/jenkins-x/jenkins-x-builders.git) | [github.com/jenkins-x-charts/environment-controller](https://github.com/jenkins-x-charts/environment-controller) | [2.1.4-631]() | **0.1.758**: [github.com/jenkins-x-charts/environment-controller](https://github.com/jenkins-x-charts/environment-controller)
 [jenkins-x/jx](https://github.com/jenkins-x/jx) | [github.com/jenkins-x-charts/environment-controller](https://github.com/jenkins-x-charts/environment-controller);[github.com/jenkins-x/jenkins-x-builders-ml](https://github.com/jenkins-x/jenkins-x-builders-ml.git);[github.com/jenkins-x/jenkins-x-builders](https://github.com/jenkins-x/jenkins-x-builders.git) | [2.1.4](https://github.com/jenkins-x/jx/releases/tag/v2.1.4) | **2.0.806**: [github.com/jenkins-x-charts/environment-controller](https://github.com/jenkins-x-charts/environment-controller)
 [kubernetes-incubator/external-dns](https://github.com/kubernetes-incubator/external-dns) |  | [2.19.1]() | 
 [weaveworks/flagger](https://github.com/weaveworks/flagger) |  | [1.3.0]() | 
@@ -12,7 +12,7 @@ Dependency | Sources | Version | Mismatched versions
 [jenkins-x/exposecontroller](https://github.com/jenkins-x/exposecontroller) |  | [2.3.118](https://github.com/jenkins-x/exposecontroller/releases/tag/v2.3.118) | 
 [jenkins-x/jenkins-x-platform](https://github.com/jenkins-x/jenkins-x-platform) |  | [2.0.2161](https://github.com/jenkins-x/jenkins-x-platform/releases/tag/v2.0.2161) | 
 [jenkins-x-charts/jx-build-templates](https://github.com/jenkins-x-charts/jx-build-templates) |  | [0.0.1422]() | 
-[jenkins-x/lighthouse](https://github.com/jenkins-x/lighthouse) |  | [0.0.539]() | 
+[jenkins-x/lighthouse](https://github.com/jenkins-x/lighthouse) |  | [0.0.543]() | 
 [jenkins-x/sso-operator](https://github.com/jenkins-x/sso-operator) |  | [1.2.44]() | 
 [jenkins-x-charts/tekton](https://github.com/jenkins-x-charts/tekton) |  | [0.0.53]() | 
 [jenkins-x-charts/vault-operator](https://github.com/jenkins-x-charts/vault-operator) |  | [0.3.2]() | 
@@ -54,11 +54,11 @@ Dependency | Sources | Version | Mismatched versions
 [jenkins-x-quickstarts/vertx-rest-prometheus](https://github.com/jenkins-x-quickstarts/vertx-rest-prometheus.git) |  | [1.0.0+fd180fd76]() | 
 [heptio/velero](https://github.com/heptio/velero):velero |  | [2.7.4]() | 
 [jenkins-x/jenkins-x-builders-base](https://github.com/jenkins-x/jenkins-x-builders-base) | [github.com/jenkins-x/jenkins-x-builders-ml](https://github.com/jenkins-x/jenkins-x-builders-ml.git);[github.com/jenkins-x/jenkins-x-builders](https://github.com/jenkins-x/jenkins-x-builders.git) | [0.0.79](https://github.com/jenkins-x/jenkins-x-builders-base/releases/tag/v0.0.79) | 
-[cloudbees/arcalos-boot-config](https://github.com/cloudbees/arcalos-boot-config) |  | [1.0.281](https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.281) | 
+[cloudbees/arcalos-boot-config](https://github.com/cloudbees/arcalos-boot-config) |  | [1.0.282](https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.282) | 
 [cloudbees/jx-tenant-service](https://github.com/cloudbees/jx-tenant-service) | [github.com/cloudbees/arcalos-boot-config](https://github.com/cloudbees/arcalos-boot-config) | [0.0.642](https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.642) | 
 [helm/cert-manager](https://github.com/helm/charts/tree/master/stable/cert-manager):cert-manager |  | [0.6.7]() | 
 [bitnami/external-dns](https://github.com/bitnami/charts/tree/master/bitnami/external-dns) |  | [2.20.4]() | 
 [helm/nginx-ingress](https://github.com/helm/charts/tree/master/stable/nginx-ingress):nginx-ingress |  | [1.34.3]() | 
-[cloudbees/jx-repository-controller](https://github.com/cloudbees/jx-repository-controller) |  | [0.0.404](https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.404) | 
+[cloudbees/jx-repository-controller](https://github.com/cloudbees/jx-repository-controller) |  | [0.0.410](https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.410) | 
 [cloudbees/arcalos-config](https://github.com/cloudbees/arcalos-config) |  | [0.0.3](https://github.com/cloudbees/arcalos-config/releases/tag/v0.0.3) | 
-[kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) |  | [2.21.1]() | 
+[kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) |  | [2.21.2]() | 
