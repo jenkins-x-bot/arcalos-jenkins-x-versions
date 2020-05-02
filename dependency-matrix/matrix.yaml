@@ -101,7 +101,7 @@ dependencies:
   owner: jenkins-x
   repo: lighthouse
   url: https://github.com/jenkins-x/lighthouse
-  version: 0.0.565
+  version: 0.0.566
   versionURL: ""
 - host: github.com
   owner: jenkins-x
@@ -143,7 +143,7 @@ dependencies:
   owner: grafana
   repo: grafana
   url: https://github.com/grafana/grafana
-  version: 5.0.21
+  version: 5.0.22
   versionURL: ""
 - host: github.com
   owner: prometheus
@@ -377,8 +377,8 @@ dependencies:
   owner: cloudbees
   repo: arcalos-boot-config
   url: https://github.com/cloudbees/arcalos-boot-config
-  version: 1.0.302
-  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.302
+  version: 1.0.303
+  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.303
 - host: github.com
   owner: cloudbees
   repo: jx-tenant-service
@@ -393,8 +393,8 @@ dependencies:
     version: 0.0.676
     versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.676
   url: https://github.com/cloudbees/jx-tenant-service
-  version: 0.0.676
-  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.676
+  version: 0.0.678
+  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.678
 - component: cert-manager
   host: github.com
   owner: helm
@@ -419,8 +419,8 @@ dependencies:
   owner: cloudbees
   repo: jx-repository-controller
   url: https://github.com/cloudbees/jx-repository-controller
-  version: 0.0.433
-  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.433
+  version: 0.0.434
+  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.434
 - host: github.com
   owner: cloudbees
   repo: arcalos-config
