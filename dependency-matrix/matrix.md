@@ -12,7 +12,7 @@ Dependency | Sources | Version | Mismatched versions
 [jenkins-x/exposecontroller](https://github.com/jenkins-x/exposecontroller) |  | [2.3.118](https://github.com/jenkins-x/exposecontroller/releases/tag/v2.3.118) | 
 [jenkins-x/jenkins-x-platform](https://github.com/jenkins-x/jenkins-x-platform) |  | [2.0.2213](https://github.com/jenkins-x/jenkins-x-platform/releases/tag/v2.0.2213) | 
 [jenkins-x-charts/jx-build-templates](https://github.com/jenkins-x-charts/jx-build-templates) |  | [0.0.1445]() | 
-[jenkins-x/lighthouse](https://github.com/jenkins-x/lighthouse) |  | [0.0.580]() | 
+[jenkins-x/lighthouse](https://github.com/jenkins-x/lighthouse) |  | [0.0.581]() | 
 [jenkins-x/sso-operator](https://github.com/jenkins-x/sso-operator) |  | [1.2.44]() | 
 [jenkins-x-charts/tekton](https://github.com/jenkins-x-charts/tekton) |  | [0.0.54]() | 
 [jenkins-x-charts/vault-operator](https://github.com/jenkins-x-charts/vault-operator) |  | [0.3.2]() | 
