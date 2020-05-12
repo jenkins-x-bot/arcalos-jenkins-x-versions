@@ -377,8 +377,8 @@ dependencies:
   owner: cloudbees
   repo: arcalos-boot-config
   url: https://github.com/cloudbees/arcalos-boot-config
-  version: 1.0.315
-  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.315
+  version: 1.0.316
+  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.316
 - host: github.com
   owner: cloudbees
   repo: jx-tenant-service
@@ -388,10 +388,10 @@ dependencies:
       owner: cloudbees
       repo: arcalos-boot-config
       url: https://github.com/cloudbees/arcalos-boot-config
-      version: 1.0.315
-      versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.315
-    version: 0.0.698
-    versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.698
+      version: 1.0.316
+      versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.316
+    version: 0.0.700
+    versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.700
   url: https://github.com/cloudbees/jx-tenant-service
   version: 0.0.700
   versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.700
