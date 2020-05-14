@@ -419,8 +419,8 @@ dependencies:
   owner: cloudbees
   repo: jx-repository-controller
   url: https://github.com/cloudbees/jx-repository-controller
-  version: 0.0.459
-  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.459
+  version: 0.0.461
+  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.461
 - host: github.com
   owner: cloudbees
   repo: arcalos-config
