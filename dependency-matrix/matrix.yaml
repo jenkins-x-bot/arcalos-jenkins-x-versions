@@ -149,7 +149,7 @@ dependencies:
   owner: prometheus
   repo: alertmanager
   url: https://github.com/prometheus/alertmanager
-  version: 11.2.1
+  version: 11.2.2
   versionURL: ""
 - component: flagger
   host: github.com
@@ -393,8 +393,8 @@ dependencies:
     version: 0.0.709
     versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.709
   url: https://github.com/cloudbees/jx-tenant-service
-  version: 0.0.709
-  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.709
+  version: 0.0.712
+  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.712
 - component: cert-manager
   host: github.com
   owner: helm
@@ -419,8 +419,8 @@ dependencies:
   owner: cloudbees
   repo: jx-repository-controller
   url: https://github.com/cloudbees/jx-repository-controller
-  version: 0.0.461
-  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.461
+  version: 0.0.463
+  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.463
 - host: github.com
   owner: cloudbees
   repo: arcalos-config
@@ -431,5 +431,5 @@ dependencies:
   owner: kubernetes-sigs
   repo: external-dns
   url: https://github.com/kubernetes-sigs/external-dns
-  version: 2.24.0
+  version: 2.24.1
   versionURL: ""
