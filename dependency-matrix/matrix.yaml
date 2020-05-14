@@ -377,8 +377,8 @@ dependencies:
   owner: cloudbees
   repo: arcalos-boot-config
   url: https://github.com/cloudbees/arcalos-boot-config
-  version: 1.0.320
-  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.320
+  version: 1.0.322
+  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.322
 - host: github.com
   owner: cloudbees
   repo: jx-tenant-service
@@ -388,13 +388,13 @@ dependencies:
       owner: cloudbees
       repo: arcalos-boot-config
       url: https://github.com/cloudbees/arcalos-boot-config
-      version: 1.0.320
-      versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.320
-    version: 0.0.705
-    versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.705
+      version: 1.0.322
+      versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.322
+    version: 0.0.709
+    versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.709
   url: https://github.com/cloudbees/jx-tenant-service
-  version: 0.0.705
-  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.705
+  version: 0.0.709
+  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.709
 - component: cert-manager
   host: github.com
   owner: helm
