@@ -431,5 +431,5 @@ dependencies:
   owner: kubernetes-sigs
   repo: external-dns
   url: https://github.com/kubernetes-sigs/external-dns
-  version: 2.24.1
+  version: 3.0.1
   versionURL: ""
