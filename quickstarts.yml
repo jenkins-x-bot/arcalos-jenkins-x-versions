@@ -1,21 +1,5 @@
 defaultOwner: jenkins-x-quickstarts
 quickstarts:
-- downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/android-quickstart/zip/d9e925718
-  language: Java
-  name: android-quickstart
-  version: 1.0.0+d9e925718
-- downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/angular-io-quickstart/zip/bec4b999a
-  language: TypeScript
-  name: angular-io-quickstart
-  version: 1.0.0+bec4b999a
-- downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/aspnet-app/zip/5942045fc
-  language: C#
-  name: aspnet-app
-  version: 1.0.0+5942045fc
-- downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/dlang-http/zip/280f378d2
-  language: D
-  name: dlang-http
-  version: 1.0.0+280f378d2
 - downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/golang-http/zip/068a14d5f
   language: Go
   name: golang-http
@@ -32,38 +16,6 @@ quickstarts:
   language: JavaScript
   name: node-http-watch-pipeline-activity
   version: 1.0.0+09c7ed32d
-- downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/open-liberty/zip/c21a1e0bf
-  language: Java
-  name: open-liberty
-  version: 1.0.0+c21a1e0bf
-- downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/php-helloworld/zip/386ed8293
-  language: PHP
-  name: php-helloworld
-  version: 1.0.0+386ed8293
-- downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/python-http/zip/ed258a723
-  language: Python
-  name: python-http
-  version: 1.0.0+ed258a723
-- downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/rails-shopping-cart/zip/2712fbe9e
-  language: Ruby
-  name: rails-shopping-cart
-  version: 1.0.0+2712fbe9e
-- downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/react-quickstart/zip/f1e295591
-  language: JavaScript
-  name: react-quickstart
-  version: 1.0.0+f1e295591
-- downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/rollout-app/zip/953a29100
-  language: HTML
-  name: rollout-app
-  version: 1.0.0+953a29100
-- downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/rust-http/zip/6a2f622ca
-  language: Rust
-  name: rust-http
-  version: 1.0.0+6a2f622ca
-- downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/scala-akka-http-quickstart/zip/d52c41a04
-  language: Scala
-  name: scala-akka-http-quickstart
-  version: 1.0.0+d52c41a04
 - downloadZipURL: https://codeload.github.com/jenkins-x-quickstarts/spring-boot-http-gradle/zip/6f0115ab3
   language: Java
   name: spring-boot-http-gradle
