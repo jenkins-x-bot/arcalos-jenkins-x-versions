@@ -13,8 +13,8 @@ dependencies:
     version: 0.1.758
     versionURL: https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v0.1.758
   url: https://github.com/jenkins-x/jenkins-x-builders.git
-  version: 2.1.46-678
-  versionURL: https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v2.1.46-678
+  version: 2.1.48-681
+  versionURL: https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v2.1.48-681
 - host: github.com
   owner: jenkins-x
   repo: jx
@@ -42,10 +42,10 @@ dependencies:
       owner: jenkins-x
       repo: jenkins-x-builders
       url: https://github.com/jenkins-x/jenkins-x-builders.git
-      version: 2.1.46-678
-      versionURL: https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v2.1.46-678
-    version: 2.1.46
-    versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.1.46
+      version: 2.1.48-681
+      versionURL: https://github.com/jenkins-x/jenkins-x-builders/releases/tag/v2.1.48-681
+    version: 2.1.48
+    versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.1.48
   url: https://github.com/jenkins-x/jx
   version: 2.1.46
   versionURL: https://github.com/jenkins-x/jx/releases/tag/v2.1.46
@@ -89,19 +89,19 @@ dependencies:
   owner: jenkins-x
   repo: jenkins-x-platform
   url: https://github.com/jenkins-x/jenkins-x-platform
-  version: 2.0.2243
-  versionURL: https://github.com/jenkins-x/jenkins-x-platform/releases/tag/v2.0.2243
+  version: 2.0.2245
+  versionURL: https://github.com/jenkins-x/jenkins-x-platform/releases/tag/v2.0.2245
 - host: github.com
   owner: jenkins-x-charts
   repo: jx-build-templates
   url: https://github.com/jenkins-x-charts/jx-build-templates
-  version: 0.0.1461
+  version: 0.0.1463
   versionURL: ""
 - host: github.com
   owner: jenkins-x
   repo: lighthouse
   url: https://github.com/jenkins-x/lighthouse
-  version: 0.0.609
+  version: 0.0.611
   versionURL: ""
 - host: github.com
   owner: jenkins-x
@@ -377,8 +377,8 @@ dependencies:
   owner: cloudbees
   repo: arcalos-boot-config
   url: https://github.com/cloudbees/arcalos-boot-config
-  version: 1.0.342
-  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.342
+  version: 1.0.343
+  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.343
 - host: github.com
   owner: cloudbees
   repo: jx-tenant-service
@@ -388,10 +388,10 @@ dependencies:
       owner: cloudbees
       repo: arcalos-boot-config
       url: https://github.com/cloudbees/arcalos-boot-config
-      version: 1.0.342
-      versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.342
-    version: 0.0.731
-    versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.731
+      version: 1.0.343
+      versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.343
+    version: 0.0.732
+    versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.732
   url: https://github.com/cloudbees/jx-tenant-service
   version: 0.0.732
   versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.732
@@ -419,8 +419,8 @@ dependencies:
   owner: cloudbees
   repo: jx-repository-controller
   url: https://github.com/cloudbees/jx-repository-controller
-  version: 0.0.482
-  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.482
+  version: 0.0.486
+  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.486
 - host: github.com
   owner: cloudbees
   repo: arcalos-config
