@@ -119,7 +119,7 @@ dependencies:
   owner: jenkins-x-charts
   repo: vault-operator
   url: https://github.com/jenkins-x-charts/vault-operator
-  version: 0.3.2
+  version: 0.3.3
   versionURL: ""
 - host: github.com
   owner: jetstack
@@ -377,8 +377,8 @@ dependencies:
   owner: cloudbees
   repo: arcalos-boot-config
   url: https://github.com/cloudbees/arcalos-boot-config
-  version: 1.0.344
-  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.344
+  version: 1.0.345
+  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.345
 - host: github.com
   owner: cloudbees
   repo: jx-tenant-service
@@ -393,8 +393,8 @@ dependencies:
     version: 0.0.736
     versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.736
   url: https://github.com/cloudbees/jx-tenant-service
-  version: 0.0.736
-  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.736
+  version: 0.0.738
+  versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.738
 - component: cert-manager
   host: github.com
   owner: helm
