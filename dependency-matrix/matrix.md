@@ -13,7 +13,7 @@ Dependency | Sources | Version | Mismatched versions
 [jenkins-x/jenkins-x-platform](https://github.com/jenkins-x/jenkins-x-platform) |  | [2.0.2295](https://github.com/jenkins-x/jenkins-x-platform/releases/tag/v2.0.2295) | 
 [jenkins-x-charts/jx-build-templates](https://github.com/jenkins-x-charts/jx-build-templates) |  | [0.0.1487]() | 
 [jenkins-x/lighthouse](https://github.com/jenkins-x/lighthouse) |  | [0.0.645]() | 
-[jenkins-x/sso-operator](https://github.com/jenkins-x/sso-operator) |  | [1.2.49]() | 
+[jenkins-x/sso-operator](https://github.com/jenkins-x/sso-operator) |  | [1.2.50]() | 
 [jenkins-x-charts/tekton](https://github.com/jenkins-x-charts/tekton) |  | [0.0.56]() | 
 [jenkins-x-charts/vault-operator](https://github.com/jenkins-x-charts/vault-operator) |  | [0.3.3]() | 
 [jetstack/cert-manager](https://github.com/jetstack/cert-manager) |  | [v0.9.1](https://github.com/jetstack/cert-manager/releases/tag/v0.9.1) | 
