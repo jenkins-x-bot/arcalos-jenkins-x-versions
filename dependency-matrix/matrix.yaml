@@ -101,7 +101,7 @@ dependencies:
   owner: jenkins-x
   repo: lighthouse
   url: https://github.com/jenkins-x/lighthouse
-  version: 0.0.651
+  version: 0.0.652
   versionURL: ""
 - host: github.com
   owner: jenkins-x
@@ -377,8 +377,8 @@ dependencies:
   owner: cloudbees
   repo: arcalos-boot-config
   url: https://github.com/cloudbees/arcalos-boot-config
-  version: 1.0.372
-  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.372
+  version: 1.0.373
+  versionURL: https://github.com/cloudbees/arcalos-boot-config/releases/tag/v1.0.373
 - host: github.com
   owner: cloudbees
   repo: jx-tenant-service
@@ -419,8 +419,8 @@ dependencies:
   owner: cloudbees
   repo: jx-repository-controller
   url: https://github.com/cloudbees/jx-repository-controller
-  version: 0.0.519
-  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.519
+  version: 0.0.520
+  versionURL: https://github.com/cloudbees/jx-repository-controller/releases/tag/v0.0.520
 - host: github.com
   owner: cloudbees
   repo: arcalos-config
@@ -431,5 +431,5 @@ dependencies:
   owner: kubernetes-sigs
   repo: external-dns
   url: https://github.com/kubernetes-sigs/external-dns
-  version: 3.2.2
+  version: 3.2.3
   versionURL: ""
